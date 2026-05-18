@@ -1,23 +1,23 @@
 # Data Manipulation with Pandas
 
-Personal notes and practice notebooks from my journey learning data manipulation using the Pandas library in Python.
+Personal notes and practice notebooks documenting my learning journey with the Pandas library in Python.
 
 ## About
 
-This repo documents my hands-on learning process as I work toward a Data Scientist Analyst role. Each notebook covers a specific topic with real code examples and comments.
+This repo is a hands-on reference built as I study data manipulation techniques, working toward a Data Scientist Analyst role. Notebooks are organized sequentially, each covering a specific topic with code examples and sample data.
 
-## Contents
+## Notebooks
 
-| Notebook | Topic |
-|---|---|
-| `01-transforming-dataframes.ipynb` | Exploring DataFrames: head, info, shape, describe |
+| # | Notebook | Topic |
+|---|---|---|
+| 01 | `01-transforming-dataframes.ipynb` | Transforming DataFrames |
 
-## Topics Covered
+## Topics in Progress
 
-- Exploring and inspecting DataFrames
-- Sorting and subsetting data
-- Creating new columns
-- Filtering rows
+- Transforming DataFrames
+- Aggregating DataFrames
+- Slicing and Indexing
+- Creating and Visualizing Data
 
 ## Stack
 
